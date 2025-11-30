@@ -13,15 +13,15 @@ The designs were created to the following widths:
 
 ### Primary
 
-- Red: hsl(0, 78%, 62%)
-- Cyan: hsl(180, 62%, 55%)
-- Orange: hsl(34, 97%, 64%)
-- Blue: hsl(212, 86%, 64%)
+- Red: #ea5353ff
+- Cyan: #45d3d3ff
+- Orange: #fcaf4aff
+- Blue: #549ef2ff
 
 ### Neutral
 
-- Grey 500: hsl(234, 12%, 34%)
-- Grey 400: hsl(212, 6%, 44%)
+- Grey 500: #4c4e61ff
+- Grey 400: #697077ff
 - White: hsl(0, 0%, 100%)
 
 ## Typography
